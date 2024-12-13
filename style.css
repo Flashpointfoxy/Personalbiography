@@ -1,0 +1,28 @@
+/*Title style*/
+h1 {
+    font: 5em impact;
+    color: #efede3;
+}
+/*header style*/
+header {
+    text-align: center;
+    padding: 20px;
+background-color: #809bb6;
+}
+/*navigation menu style*/ nav {
+    text-align: center;
+    padding: 5px;
+background-color:#b3b3ad ;
+}
+/*h2 style*/
+h2 {
+    text-align: left;
+    background-color: #eede9c;
+}
+/*p style*/
+p {
+    text-align: left;
+    background-color: #efede3;
+}
+/*back style*/
+html {background-color: #809bb6;}
